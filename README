@@ -1,6 +1,4 @@
 An ActionScript 3 Library for working with and generating relative date strings (e.g. "two hours ago" instead of "Mon Jan 5 17:24:33 GMT-0700 2011").
 
-<strong>Dependencies:</strong>
-<ul>
-	<li><a href="https://github.com/mikechambers/as3corelib">as3corelib</a></li>
-<ul>
+Dependencies:
+  -as3corelib (https://github.com/mikechambers/as3corelib)
