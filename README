@@ -1,7 +1,7 @@
 An ActionScript 3 Library for working with and generating relative date strings (e.g. "two hours ago" instead of "Mon Jan 5 17:24:33 GMT-0700 2011").
 
 Demo:
-  -actionscript-relative-date-demo (https://github.com/charlesbihis/actionscript-relative-date-demo)
+  -actionscript-relative-date-demo (https://github.com/charlesbihis/sandbox/tree/master/actionscript/actionscript-relative-date-demo)
 
 Dependencies:
   -as3corelib (https://github.com/mikechambers/as3corelib)
