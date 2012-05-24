@@ -7,9 +7,7 @@ package com.adobe.date
 	 * the difference in time from two different dates (e.g. "just now"
 	 * or "2 hours ago" or "13 minutes from now").
 	 * 
-	 * @author Charles Bihis (charles@whoischarles.com)
-	 * @langversion ActionScript 3.0
-	 * @playerversion Flash 10.0
+	 * @author Charles Bihis (www.whoischarles.com)
 	 */
 	public class RelativeDate
 	{
